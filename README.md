@@ -1,6 +1,6 @@
 # 1607.html
 basic html webpage
-
+1)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,3 +38,23 @@ basic html webpage
 </body>
 </html>
 
+
+2}
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .gray {
+                background-color: grey;
+            }
+        </style>
+    </head>
+    <body>
+        <ol>To Do : <li class = "gray">Floss</li>
+            <li>Feed Cat</li>
+            <li class="gray">Nap</li>
+            <li>Plan Holiday</li>
+            <li class="gray">Order Tea</li>
+        </ol>
+    </body>
+</html>
